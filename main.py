@@ -7,7 +7,7 @@ import time
 import login
 # 配置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
+sss
 # 读取配置文件
 loginName = input("请输入用户名：")
 passWord = input("请输入密码：")
